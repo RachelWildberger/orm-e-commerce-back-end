@@ -26,7 +26,8 @@
   
   Watch video of the functionality of the e-commerce back end: [here]().
 
-![Mock of e-commerce back end](./assets/command-line-example.png)
+![Mock of e-commerce back end](./assets/ecommerce-get-all.png)
+![Mock of e-commerce back end](./assets/ecommerce-new-categories.png)
 
   ## Testing 
   n/a
