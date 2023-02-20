@@ -24,7 +24,7 @@
   ## Useage 
   First, run ``npm run seed`` to seed data to your database so that you can test the routes using Insomnia. Second, use the command ``npm start`` to run the app on the localhost. 
   
-  Watch video of the functionality of the e-commerce back end: [here]().
+  Watch video of the functionality of the e-commerce back end: [here](https://drive.google.com/file/d/1ckMHR8jC4ZRVqy8G84H3H81AurTi7o_B/view?usp=sharing).
 
 ![Mock of e-commerce back end](./assets/ecommerce-get-all.png)
 ![Mock of e-commerce back end](./assets/ecommerce-new-categories.png)
